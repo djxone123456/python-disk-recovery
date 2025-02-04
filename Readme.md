@@ -10,5 +10,5 @@
 9.	Chương trình hỏi nơi muốn lưu. Hãy cho một đường dẫn. Ví dụ: C:\Users\djxon\Downloads\New folder
 10.	Nếu chương trình chạy mà không thấy in ra Error thì thành công. Ta có thể kiểm tra kết quả khôi phục trong đường dẫn đã cho.
 
-#Lưu ý
+## Lưu ý
 Tính năng quét ổ đĩa NTFS đang bị lỗi khi khôi phục nên hiện tại chỉ sử dụng được chức năng quét FAT32

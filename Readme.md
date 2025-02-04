@@ -6,7 +6,7 @@
 5.	Ta lựa chọn 1 ổ đĩa. Ví dụ ta chọn ổ E: cho FAT32.
 6.	Chương trình sẽ list ra các danh sách file đã xóa theo cách quick format. Nếu muốn in ra kết quả như thế này, gõ lệnh QUICK.
 7.	Ngoài ra muốn quét full ổ đĩa thì ta gõ lệnh FULL.
-8.	Trong danh sách tìm được, nếu ta muốn khôi phục file nào đó, ta cần gõ index của file đó trong danh sách. \Ví dụ như Index 3: Filename: 09-12-2024_23-07-07_PP1, size: 205 bytes thì gõ số 3.
+8.	Trong danh sách tìm được, nếu ta muốn khôi phục file nào đó, ta cần gõ index của file đó trong danh sách. Ví dụ như ***Index 3: Filename: 09-12-2024_23-07-07_PP1, size: 205 bytes*** thì gõ số 3.
 9.	Chương trình hỏi nơi muốn lưu. Hãy cho một đường dẫn. Ví dụ: **C:\Users\djxon\Downloads\New folder**
 10.	Nếu chương trình chạy mà không thấy in ra Error thì thành công. Ta có thể kiểm tra kết quả khôi phục trong đường dẫn đã cho.
 

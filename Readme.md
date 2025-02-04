@@ -1,4 +1,4 @@
-##Hướng dẫn sử dụng ứng dụng khôi phục ổ đĩa trên USB/ SD Card có định dạng FAT32
+# Hướng dẫn sử dụng ứng dụng khôi phục ổ đĩa trên USB/ SD Card có định dạng FAT32
 1.	Chạy editor như VSCode với quyền Administrator.
 2.	Import folder vào trong editor.
 3.	Cài đặt các thư viện trong file requirements.txt.

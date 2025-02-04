@@ -2,7 +2,7 @@
 1.	Chạy editor như VSCode với quyền Administrator.
 2.	Import folder vào trong editor.
 3.	Cài đặt các thư viện trong file ***requirements.txt***.
-4.	Chạy dưới hàm main.py.
+4.	Chạy dưới file main.py.
 5.	Ta lựa chọn 1 ổ đĩa. Ví dụ ta chọn ổ E: cho FAT32.
 6.	Chương trình sẽ list ra các danh sách file đã xóa theo cách quick format. Nếu muốn in ra kết quả như thế này, gõ lệnh QUICK.
 7.	Ngoài ra muốn quét full ổ đĩa thì ta gõ lệnh FULL.
